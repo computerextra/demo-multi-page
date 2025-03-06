@@ -1,4 +1,4 @@
-export default function Home() {
+export default function Kontakt() {
   return (
     <>
       <div className="grid auto-rows-min gap-4 md:grid-cols-3">
